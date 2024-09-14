@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+   <title>EMC</title>
+</head>
+<body>
+   <center>
+      <h1>Error makes clever academy🚀 </h1>
+      <h5>Training | Tech news | freshers guide</h5>
+      <p>Empowering developers to level up their skills through corporate training</p>
+   </center>
+<hr>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIBWdLLq9kQ?si=OIrVlAFJyKV9Jxk3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+<p>Welcome to our comprehensive Git and GitHub tutorial! In this video, we'll take you on an exciting journey through the world of version control, showing you the ropes of Git, GitHub, branches, essential commands, pull requests, and how to tackle merge conflicts like a pro. Git is a powerful version control system that allows developers to track changes in their codebase efficiently. Understanding Git is crucial for anyone involved in software development or collaborating on projects with a team. In this tutorial, we'll start with the basics and gradually dive into more advanced concepts.
+
+   We'll cover the introduction to version control and the importance of using Git for tracking changes and collaborating with others. You'll learn how to install Git on different platforms and configure your global Git settings. Then, we'll explore Git fundamentals, including initializing a new repository, staging and committing changes, and viewing commit history.
+   </p>
+   <p>Welcome to our comprehensive Git and GitHub tutorial! In this video, we'll take you on an exciting journey through the world of version control, showing you the ropes of Git, GitHub, branches, essential commands, pull requests, and how to tackle merge conflicts like a pro. Git is a powerful version control system that allows developers to track changes in their codebase efficiently. Understanding Git is crucial for anyone involved in software development or collaborating on projects with a team. In this tutorial, we'll start with the basics and gradually dive into more advanced concepts.
+
+      We'll cover the introduction to version control and the importance of using Git for tracking changes and collaborating with others. You'll learn how to install Git on different platforms and configure your global Git settings. Then, we'll explore Git fundamentals, including initializing a new repository, staging and committing changes, and viewing commit history.
+      </p>
+      <h2>lets divide ful stack into 3 parts</h2>
+      <ul>
+         <li>front end</li>
+         <li>back end</li>
+         <li>database</li>
+         </ul>
+<h2>technologies used for full stack web development</h2>
+
+<table border="1">
+   <tr>
+      <td>frontend</td> <td>backend</td> <td>database</td>
+   </tr>
+   <tr>
+      <td>html</td> <td>java</td> <td>mongo DB</td>
+   </tr>
+   <tr>
+      <td>css</td> <td>python</td> <td>MYSQL</td>
+   </tr>
+   <tr>
+      <td>javascript</td> <td>node JS</td> <td>AWS</td>
+   </tr>
+   </table>
+<hr>
+<center>
+<p>
+   <a href="register.html">Register for a course</a> <a href="https://www.instagram.com/errormakesclever/">Instagram</a> <a href="https://www.youtube.com/@errormakesclever">youtube</a>
+</p>
+</center>
+   </body>
+</html>
